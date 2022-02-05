@@ -1,0 +1,121 @@
+# Translation of Plugins - WPOrLogin &#8211; Personalizar página de inicio de sesión y regístro de WordPress - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WPOrLogin &#8211; Personalizar página de inicio de sesión y regístro de WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-16 18:58:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WPOrLogin &#8211; Personalizar página de inicio de sesión y regístro de WordPress - Stable (latest release)\n"
+
+#: wporlogin.php:289
+msgid "Sign Up"
+msgstr "Regístrate"
+
+#: includes/wporloginpage.php:150 includes/wporloginpage.php:494
+msgid "Important"
+msgstr "Importante"
+
+#: includes/wporloginpage.php:144 includes/wporloginpage.php:488
+msgid "Donate now"
+msgstr "Donar ahora"
+
+#: includes/wporloginpage.php:443
+msgid "You'll get the best results when using images with a dimension of 1920 by 1080 pixels"
+msgstr "Obtendrás los mejores resultados al usar imágenes con una dimensión de 1920 por 1080 píxeles"
+
+#: includes/wporloginpage.php:442
+msgid "You can upload a background image from here"
+msgstr "Puedes subir una imagen de fondo desde aquí"
+
+#: includes/wporloginpage.php:373
+msgid "Background image"
+msgstr "Imagen de fondo"
+
+#: includes/wporloginpage.php:344
+msgid "dimension of 200 by 84 pixels"
+msgstr "dimensión de 200 por 84 píxeles"
+
+#: includes/wporloginpage.php:343
+msgid "You can upload your logo from here"
+msgstr "Puedes subir tu logotipo desde aquí"
+
+#: includes/wporloginpage.php:331
+msgid "Logo"
+msgstr "Logotipo"
+
+#: wporlogin.php:299 wporlogin.php:306
+msgid "Log In"
+msgstr "Acceder"
+
+#: wporlogin.php:295
+msgid "Reset Password"
+msgstr "Restablecer la contraseña"
+
+#: includes/wporloginpage.php:152 includes/wporloginpage.php:496
+msgid "To donate now, click the Donate button"
+msgstr "Para donar ahora, haz clic en el botón «Donar»"
+
+#: includes/wporloginpage.php:150 includes/wporloginpage.php:494
+msgid "If you value my work, considered a small donation to show your appreciation. Thank you!"
+msgstr "Si valoras mi trabajo, considera una pequeña donación para mostrar tu aprecio. ¡Gracias!"
+
+#: includes/wporloginpage.php:147 includes/wporloginpage.php:491
+msgid "en_US"
+msgstr "es_ES"
+
+#: includes/wporloginpage.php:441
+msgid "Select background image"
+msgstr "Seleccionar una imagen de fondo"
+
+#: includes/wporloginpage.php:366
+msgid "Change the logo title in login"
+msgstr "Cambiar el título del logotipo en el acceso"
+
+#: includes/wporloginpage.php:362
+msgid "Logo Title"
+msgstr "Título del logotipo"
+
+#: includes/wporloginpage.php:355
+msgid "Change the login logo URL"
+msgstr "Cambiar la URL del logotipo de acceso"
+
+#: includes/wporloginpage.php:344
+msgid "You'll get the best results with a"
+msgstr "Obtendrás los mejores resultados con una"
+
+#: includes/wporloginpage.php:342
+msgid "Select the logo"
+msgstr "Seleccionar el logotipo"
+
+#. Description of the plugin
+msgid "Plugin to customize the WordPress login."
+msgstr "Plugin para personalizar el acceso de WordPress."
+
+#. Plugin Name of the plugin
+msgid "WPOrLogin - Customize WordPress login"
+msgstr "WPOrLogin - Customize WordPress login"
+
+#: includes/wporloginpage.php:351
+msgid "Logo URL"
+msgstr "URL del logotipo"
+
+#: includes/wporloginpage.php:258
+msgid "Standard"
+msgstr "Estándar"
+
+#: includes/wporloginpage.php:230
+msgid "Select an option"
+msgstr "Seleccionar una opción"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://oregoom.com/wporlogin/"
+msgstr "https://oregoom.com/wporlogin/"
+
+#: includes/wporloginpage.php:248
+msgid "Basic"
+msgstr "Básico"
